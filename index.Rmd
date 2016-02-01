@@ -10,6 +10,11 @@ output:
 
 # [Change Monitoring at Wageningen University](https://geoscripting-wur.github.io/) ![WUR logo](http://www.wageningenur.nl/upload/f9a0b5f2-15c5-4b84-9e14-20ef02f5e265_wur-logo.png)
 
-Change monitoring Wageningen University
+# Change monitoring Wageningen University
 
-Overview of talks and activities
+* Workshop Lima, Peru (2016)
+    * [bfastSpatial](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
+    * [Changemonitor-WUR](http://changemonitor-wur.github.io/talks/change-detection-2016/)
+
+
+
