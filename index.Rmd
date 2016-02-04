@@ -10,19 +10,28 @@ output:
 
 # [Change Monitoring at Wageningen University](http://www.wageningenur.nl/changemonitor) ![WUR logo](http://www.wageningenur.nl/upload/f9a0b5f2-15c5-4b84-9e14-20ef02f5e265_wur-logo.png)
 
-# Change monitoring Wageningen University
+## Workshop Lima, Peru (2016): Forest change tracking using **R and BfastSpatial**
 
-* Workshop Lima, Peru (2016): Forest change tracking using **R and BfastSpatial**
-    * [bfastSpatial](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
-    * [Changemonitor-WUR](http://changemonitor-wur.github.io/talks/change-detection-2016/)
+### Talks
+
+- [bfastSpatial](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
+- [Changemonitor-WUR](http://changemonitor-wur.github.io/talks/change-detection-2016/)
     
-* The geoscripting course @ Wageningen University
-    * [Geo-scripting at WU](https://geoscripting-wur.github.io/)
-      * Introduction to spatial data handling with R
-    
-* Handy websites if you want to learn more about R and it's great potential
-    * [http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)
-    * [http://www.statmethods.net/index.html](http://www.statmethods.net/index.html)
+### Tutorials
+
+- [How do download landsat data and get ready for deforestation monitoring](http://changemonitor-wur.github.io/deforestationmonitoring/)
+- [Change Monitoring extra tutorial for change monitoring](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/bfastSpatial_Peru.html)
+
+### Geo-scripting course materials
+
+- [Geo-scripting at WU: Introduction to spatial data handling with R](https://geoscripting-wur.github.io/)
+
+## More information
+
+Handy websites if you want to learn more about R and it's great potential
+
+- [http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)
+- [http://www.statmethods.net/index.html](http://www.statmethods.net/index.html)
     
 
 
