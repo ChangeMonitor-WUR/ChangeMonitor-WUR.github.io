@@ -14,17 +14,28 @@ output:
 
 ### Talks
 
-- [bfastSpatial](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
-- [Changemonitor-WUR](http://changemonitor-wur.github.io/talks/change-detection-2016/)
+- [bfastSpatial prsentation](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
+- [Changemonitor activities @ Wageningen University](http://changemonitor-wur.github.io/talks/change-detection-2016/)
     
 ### Tutorials
-
+- [bfastSpatial Tutorial](http://www.loicdutrieux.com/bfastSpatial/)
 - [How do download landsat data and get ready for deforestation monitoring](http://changemonitor-wur.github.io/deforestationmonitoring/)
 - [Change Monitoring extra tutorial for change monitoring](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/bfastSpatial_Peru.html)
 
+## Open-source toolbox for Change Analysis using Landsat images
+
+- [BfastSpatial package for R](https://github.com/dutri001/bfastSpatial)
+
+The package can be installed directly in R from github using the `devtools` package:
+
+```{r, eval = FALSE}
+library(devtools)
+install_github('dutri001/bfastSpatial')
+```
+
 ### Geo-scripting course materials
 
-- [Geo-scripting at WU: Introduction to spatial data handling with R](https://geoscripting-wur.github.io/)
+- [General introduction to spatial data handling using R and Python (Geo-scripting course @ Wageningen University)](https://geoscripting-wur.github.io/)
 
 ## More information
 
