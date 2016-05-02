@@ -10,11 +10,10 @@ output:
 
 # [Change Monitoring at Wageningen University](http://www.wageningenur.nl/changemonitor) ![WUR logo](http://www.wageningenur.nl/upload/f9a0b5f2-15c5-4b84-9e14-20ef02f5e265_wur-logo.png)
 
-## Workshop Lima, Peru (2016): Forest change tracking using **R and BfastSpatial**
-
 ### Talks
 
-- [bfastSpatial prsentation](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
+- [Overview talk of recent activities at the change monitor group](http://bendevries.ca/geog_umd_happyhour_2016-03-23/)
+- [bfastSpatial presentation](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
 - [Changemonitor activities @ Wageningen University](http://changemonitor-wur.github.io/talks/change-detection-2016/)
     
 ### Tutorials
@@ -22,7 +21,7 @@ output:
 - [How do download landsat data and get ready for deforestation monitoring](http://changemonitor-wur.github.io/deforestationmonitoring/)
 - [Change Monitoring extra tutorial for change monitoring](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/bfastSpatial_Peru.html)
 
-## Open-source toolbox for Change Analysis using Landsat images
+### Open-source toolbox for Change Analysis using Landsat images
 
 - [BfastSpatial package for R](https://github.com/dutri001/bfastSpatial)
 
