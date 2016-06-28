@@ -12,7 +12,7 @@ output:
 
 ### Talks
 
-- [Overview talk of recent activities at the change monitor group](http://bendevries.ca/geog_umd_happyhour_2016-03-23/)
+- [Talk by Ben DeVries at NASA Goddard Space Flight Center, May 12, 2016](http://bendevries.ca/nasa_goddard_sfc_talk/)
 - [bfastSpatial presentation](http://changemonitor-wur.github.io/talks/bfastSpatial-2016/)
 - [Changemonitor activities @ Wageningen University](http://changemonitor-wur.github.io/talks/change-detection-2016/)
     
